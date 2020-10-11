@@ -1,5 +1,11 @@
 # blender_wavepacket
-Animated propagating wavepacket in Blender
+Python script to create an animated propagating wavepacket in Blender. Developed in Blender 2.90.
+
+The animation is based on keyframing the vertex coordinates of a mesh by a Python script. Warning: the resulting .blend file can become relatively large, depending on the resolution of the mesh.
+
+Reference on Stack Exchange:
+
+https://blender.stackexchange.com/questions/36902/how-to-keyframe-mesh-vertices-in-python
 
 # Example
 
