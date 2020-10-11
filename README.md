@@ -5,4 +5,4 @@ Animated propagating wavepacket in Blender
 
 ![Image of a wavepacket](1D_WavePacket.png)
 
-![Video of wavepacket](1D_WavePacket0001-0142.mp4)
+Video of wavepacket: 1D_WavePacket0001-0142.mp4
